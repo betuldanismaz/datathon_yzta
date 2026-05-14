@@ -1,3 +1,7 @@
+# Proje Notu
+
+`BEST_SCORE_NOTEBOOK.ipynb` dosyası 13 Mayıs 2026 tarihinde tamamlanmış ve en iyi skoru üreten modelleme akışı bu tarihte sabitlenmiştir. Bu tarihten sonra modelleme kodunda, tahmin üretim sürecinde veya kullanılan yaklaşımda herhangi bir değişiklik yapılmamıştır. Daha sonra, yalnızca kod açıklamalarını tamamlamak ve notebook dosyasını daha okunaklı hale getirmek amacıyla aynı çalışma `BEST_SCORE_NOTEBOOK_FINAL.ipynb` adıyla düzenlenerek eklenmiştir.
+
 # TAKIM 37
 
 Datathon project for team 37.

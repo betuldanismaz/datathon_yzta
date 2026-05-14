@@ -4,7 +4,7 @@ This repository contains Team 37's final documented notebook for the YZTA Datath
 
 ## Final Notebook
 
-`YZTA_Datathon_Final.ipynb` is the final readable notebook for the project. The best-scoring modeling workflow was completed on May 13, 2026. After that date, the notebook was reorganized and documented more clearly, but the modeling code, prediction logic, and final submission approach were not changed.
+`BEST_SCORE_NOTEBOOK.ipynb` contains the best-scoring modeling workflow and was created before May 13, 2026. The same workflow was later reorganized with clearer explanations and comments under the file name `YZTA_Datathon_Final.ipynb`. This final notebook is the documented, readable version of the best-score workflow; the modeling code, prediction logic, and final submission approach were not changed after May 13, 2026.
 
 ## Best Public Score
 

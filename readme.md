@@ -2,6 +2,10 @@
 
 This repository contains Team 37's final documented notebook for the YZTA Datathon 2026 regression task. The objective is to predict the target variable `bilissel_performans_skoru` from sleep, lifestyle, demographic, and physiological features. The final workflow is implemented in `YZTA_Datathon_Final.ipynb` and covers the full modeling process from data loading and exploratory analysis through validation, model search, calibration, ensembling, and final submission checks.
 
+## My medium article 
+
+https://medium.com/@danismazbetul3/i-took-part-in-a-datathon-and-heres-the-pipeline-i-built-0e5628111fa1 
+
 ## Final Notebook
 
 `BEST_SCORE_NOTEBOOK.ipynb` contains the best-scoring modeling workflow and was created before May 13, 2026. The same workflow was later reorganized with clearer explanations and comments under the file name `YZTA_Datathon_Final.ipynb`. This final notebook is the documented, readable version of the best-score workflow; the modeling code, prediction logic, and final submission approach were not changed after May 13, 2026.
